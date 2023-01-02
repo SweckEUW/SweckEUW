@@ -3,7 +3,7 @@
 
 <a href="https://sweck.de" target="_blank">💻 Visit my Website</a>
 <br />
-<a href="https://sweck.de" target="_blank">🎬 Watch my Reel!</a>
+<a href="https://sweck.de/Showreel/" target="_blank">🎬 Watch my Showreel!</a>
 
 <!-- ### Languages and Tools:
 
